@@ -1,0 +1,27 @@
+{
+  "type": "list",
+  "title": "Documentation",
+  "elements": [
+    {
+      "name": "Components",
+      "description": "Documentation for graphics components",
+      "url": "...",
+      "type": "button",
+      "action": "link"
+    },
+    {
+      "name": "Bluprint",
+      "description": "Documentation for how to use bluprint",
+      "url": "...",
+      "type": "button",
+      "action": "link"
+    },
+    {
+      "name": "Setup",
+      "description": "Documentation for how to setup a project",
+      "url": "...",
+      "type": "button",
+      "action": "link"
+    }
+  ]
+}
