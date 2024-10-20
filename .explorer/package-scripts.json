@@ -1,33 +1,33 @@
 {
   "type": "list",
   "title": "Scripts",
-  "elements": [
+  "children": [
     {
-      "name": "start",
+      "title": "start",
       "description": "Start the project",
       "action": "package-script",
       "type": "button"
     },
     {
-      "name": "preview",
+      "title": "preview",
       "description": "Publish a shareable test link for your page",
       "action": "package-script",
       "type": "button"
     },
     {
-      "name": "build",
+      "title": "build",
       "description": "Build the project for production",
       "action": "package-script",
       "type": "button"
     },
     {
-      "name": "upload",
+      "title": "upload",
       "description": "Upload to server",
       "action": "package-script",
       "type": "button"
     },
     {
-      "name": "sync",
+      "title": "sync",
       "description": "Sync with server",
       "action": "package-script",
       "type": "button"

@@ -1,0 +1,17 @@
+{
+  "type": "list",
+  "title": "Project actions",
+  "children": [
+    {
+      "title": "Create AI embed",
+      "type": "button",
+      "action": "create-new-embed"
+    },
+    {
+      "type": "button",
+      "title": "Scrape latest data",
+      "action": "script",
+      "scriptFile": "scraper.js"
+    }
+  ]
+}

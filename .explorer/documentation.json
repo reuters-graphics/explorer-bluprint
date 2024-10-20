@@ -1,25 +1,25 @@
 {
   "type": "list",
   "title": "Documentation",
-  "elements": [
+  "children": [
     {
-      "name": "Components",
+      "title": "Components",
       "description": "Documentation for graphics components",
-      "url": "...",
+      "url": "https://reuters-graphics.github.io/docs_graphics-kit/for_developers/statics/",
       "type": "button",
       "action": "link"
     },
     {
-      "name": "Bluprint",
+      "title": "Bluprint",
       "description": "Documentation for how to use bluprint",
-      "url": "...",
+      "url": "https://github.com/reuters-graphics/bluprint",
       "type": "button",
       "action": "link"
     },
     {
-      "name": "Setup",
+      "title": "Setup",
       "description": "Documentation for how to setup a project",
-      "url": "...",
+      "url": "https://reuters-graphics.github.io/docs_graphics-kit/for_developers/statics/",
       "type": "button",
       "action": "link"
     }

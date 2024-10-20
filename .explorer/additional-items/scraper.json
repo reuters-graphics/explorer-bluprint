@@ -1,6 +1,0 @@
-{
-  "type": "button",
-  "title": "Scrape latest data",
-  "action": "script",
-  "script": "scraper.js"
-}
